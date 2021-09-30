@@ -1,13 +1,15 @@
-# Sticky Notes 
+# Sticky Notes
+
+![](./sticky-notes.gif)
 ## Features
-A scalable kanban-style productivity app. Users can create tasks and organize them in lists. Sticky Notes will support drag and drop features and persistent storage.
+Sticky Notes is a kanban-style agile project management tool designed to help visualize work, organise tasks by progress, and maximize efficiency. Features a minimalist but friendly user interface with drag and drop supported. Persistent storage currently underway.
 
 ## Built With
 - React
 - TypeScript
 - npm
 - HTML5/CSS3
-- Styled components
+- [![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
 
 
 ## Getting Started
